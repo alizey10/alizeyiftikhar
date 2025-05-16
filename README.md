@@ -1,2 +1,2 @@
 # alizeyiftikhar
-this is my forst github repository
+this is my first github repository
